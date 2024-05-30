@@ -45,7 +45,6 @@ function App() {
         };
       });
       setQuestions(selectedQuestions);
-      console.log(selectedQuestions);
     });
   }, []);
 
